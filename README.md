@@ -29,3 +29,7 @@ cred-hackathon/
 ├── credit_model.pkl # Optional ML model (do not include large files in GitHub)
 ├── features_dataset.csv # Optional supporting data
 ├── README.md # This file
+
+
+## Live Demo /Public URL
+https://cred-lens.streamlit.app/
